@@ -1,0 +1,11 @@
+<html>
+  <head>
+  
+    <title>Mi pagina de prueba</title>
+  </head>
+  <body>
+  
+    <img src="images/firefox-icon.png" alt="Mi imagen de prueba">
+	<img src="images/firefox-icon.png" alt="parrafo de prueba">
+  </body>
+</html>
